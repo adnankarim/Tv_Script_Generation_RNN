@@ -79,5 +79,6 @@ jerry:(to george) hey!
 ## What did I do?
 Downloaded the data and the notebook with the outline and basic tests.   
 I implemented data loading and pre-processing as well as the RNN network. 
+Trained the model until losses were such that further training might overfit the model.
 At the end I provided the Starting character from which the dialogues start taking place.
 
