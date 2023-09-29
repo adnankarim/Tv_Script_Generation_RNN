@@ -1,6 +1,6 @@
 # Project Overview
 
-In this project, I generated my own Seinfeld TV scripts using RNNs. I was using a Seinfeld dataset of scripts from 9 seasons. The Neural Network that I build generated a new, "fake" TV script.
+In this project, I generated Seinfeld TV scripts using RNNs. I was using a Seinfeld dataset of scripts from 9 seasons. The Neural Network that I build generated a new, "fake" TV script.
 ## Framework Used
 
 * Pytorch
